@@ -1,5 +1,7 @@
 *
 */
 !.gitignore
-!Curso C#.csproj
-!Program.cs
+!*/Curso C#.csproj
+!*/Program.cs
+!*/*/Program.cs
+!*/*/tiposdedados.csproj
